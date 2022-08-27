@@ -1,0 +1,9 @@
+<div class="card border-info mr-1 my-1">
+    <div class="card-header">{{valeur.strDrink}}</div>
+    <div class="card-body">
+        <h5 class="card-title">Ingrédients</h5>
+        <div *ngFor="let i of valeur.strIngredients" style="display: inline">
+            <label *ngIf="i !== null" class="card-text mr-1 my-1">{{i}}</label>
+        </div>
+    </div>
+</div>
