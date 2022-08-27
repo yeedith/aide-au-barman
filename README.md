@@ -1,6 +1,11 @@
 # Barman
 
+## Priopriétés
 Ce projet test  été créé avec  [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+Angular CLI: 14.1.3
+Node: 16.17.0
+Package Manager: npm 8.15.0 
+OS: win32 x64
 
 ## Utilisation
 
